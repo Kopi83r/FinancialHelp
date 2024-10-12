@@ -5,12 +5,13 @@ scraperStockBizRad_working_basic_firefox_driver used for scraping price table fr
 
 chartDBE_final.py reads data from csf file and plots chart with price, technical indicators and buy sell indicator info.
 
-
+Commmands:
+cd /to/project/path
+source .venv/bin/activate
+python chartDBE_final.py 
 
 Chrome driver link https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.100/win64/chromedriver-win64.zip
 Has to be compatible with chrome installed on pc
-
-
 Instaling Gecko Driver opensuse from git https://www.baeldung.com/linux/geckodriver-installation
 
 Requirements:
