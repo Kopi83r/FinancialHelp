@@ -3,7 +3,7 @@ App/ script to calculate AT technicals to help when to buy sell stock
 
 scraperStockBizRad_working_basic_firefox_driver used for scraping price table from  https://www.biznesradar.pl/notowania-historyczne/ and saving them to csv file
 
-chartDBE_final.py reads data from csf file and plots chart with price, technical indicators and buy sell indicator info.
+chartDBE_final.py reads data from csv file and plots chart with price, technical indicators and buy sell indicator info.
 
 Commmands:
 cd /to/project/path
